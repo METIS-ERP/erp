@@ -1,4 +1,5 @@
 <?
+// 7-13 테스트 등록
 include "_common.php";
 header("Content-Type: text/html; charset=utf-8");
 
